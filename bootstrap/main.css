@@ -1,0 +1,59 @@
+body {
+	background-color: black;
+}
+
+#green1 {
+	background-color: green;
+	height: 300px;
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+#blue1 {
+	height: 300px;
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+#leg {
+	height: 300px;
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-right: 2%;
+	background-color: white;
+}
+
+.dove{
+
+	height:100%;
+	background-color: blue;
+}
+
+.pegion{
+
+	height:100%;
+	background-color: yellow;
+}
+
+.ear{
+
+	height:90%;
+	background-color: purple;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+#white {
+	background-color: white;
+	height: 300px;
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-bottom: 2%;
+}
+
+.cont {
+	height: 100%;
+}
